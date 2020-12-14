@@ -1,0 +1,139 @@
+
+h1{
+  margin-top:50px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  font-size: 5.62em;
+  position: relative;
+  top: 50px;
+  line-height: 2;
+}
+.aboutclass{
+  font-family: monospace;
+  font-size: 3em;
+  color: #66BFBF;
+  font-weight: normal;
+  margin-top: 120px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+.top-container{
+  background-color: #0a043c;
+}
+
+h3{
+  color: #11999E;
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+.pro{
+  text-decoration: underline;
+}
+.math{
+  text-decoration: underline;
+}
+.aiml{
+  text-decoration: underline;
+}
+.mountain{
+  width: 42%
+}
+
+h2{
+  font-size: 2em;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.bottom-cloud{
+  position: relative;
+  right: 200px;
+  top: 0;
+  }
+.top-cloud{
+  position: relative;
+  left:240px;
+  top: 15px;
+}
+.profilepic{
+
+}
+.skillA{
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+
+}
+.skillB{
+
+  width: 15%;
+  float: right;
+  margin-left: 40px;
+  margin-top: 20px;
+
+}
+
+.bottom-container{
+  background-color: #0a043c;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+.footer-link{
+  line-height: 2;
+  color: #11999E;
+  font-size: 170%;
+  margin: 20px 20px 30px 20px;
+  text-decoration: none;
+}
+.btn{
+  padding: 10px 15px 10px 15px;
+  background-color: #11999E;
+  margin-bottom: 10px;
+  font-size: 100%;
+  color: white;
+  border-radius: 10%;
+
+}
+.reg{
+
+  color: #EAF6F6;
+}
+
+hr{
+  border-style: dotted none none none;
+  border-width: 6px;
+  border-color: #808080;
+  height: 0;
+  width: 5%;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+.description{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+  text-align: center;
+}
+.cntmsg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+/*Absolute position: It leaves its previous place and othes
+can take over
+Relative Position: It leaves such that other part are unchanged*/
